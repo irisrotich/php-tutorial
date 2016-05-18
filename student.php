@@ -7,6 +7,8 @@ class Student{
     private $fullName;
     private $genderName;
     
+    // Here are the class methods
+    
     private function setCourse()
     {
         return $this->Course = "Biology";
